@@ -14,20 +14,20 @@
   {
     "key" : "C1",
     "name" : "CCR C1",
-    "latitude" : -23.706056,
-    "longitude" : -46.623319
+    "latitude" : -23.706242,
+    "longitude" : -46.623587
   },
   {
     "key" : "C2",
     "name" : "CCR C2",
-    "latitude" : -23.705625,
-    "longitude" : -46.623698
+    "latitude" : -23.705841,
+    "longitude" : -46.623643
   },
   {
     "key" : "CC",
     "name" : "CCR BGP",
-    "latitude" : -23.706219,
-    "longitude" : -46.624166
+    "latitude" : -23.706152,
+    "longitude" : -46.624171
   },
   {
     "key" : "MS",
