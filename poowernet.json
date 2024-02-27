@@ -2,14 +2,14 @@
   {
     "key" : "PW",
     "name" : "POP POWERNET",
-    "latitude" : -23.737135,
-    "longitude" : -46.624029
+    "latitude" : -23.706089,
+    "longitude" : -46.623851
   },
   {
     "key" : "CT",
     "name" : "OLT CENTRAL",
-    "latitude" : -23.737135,
-    "longitude" : -46.610943
+    "latitude" : -23.737037,
+    "longitude" : -46.610945
   },
   {
     "key" : "C1",
