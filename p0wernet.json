@@ -12,22 +12,22 @@
     "longitude" : -46.610943
   },
   {
-    "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "key" : "C1",
+    "name" : "CCR C1",
+    "latitude" : -23.706056,
+    "longitude" : -46.623319
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key" : "C2",
+    "name" : "CCR C2",
+    "latitude" : -23.705625,,
+    "longitude" : -46.623698
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "CC",
+    "name" : "CCR BGP",
+    "latitude" : -23.706219,
+    "longitude" : -46.624166
   },
   {
     "key" : "MS",
